@@ -1616,7 +1616,7 @@ responses:
 
 
   utter_intent_333:
-    - text: "UET stands for University of Engineering and Technology."
+    - text: "University of Engineering and Technology Peshawar, commonly called UET Peshawar, is a public engineering university in Peshawar. It is one of Pakistan’s well-known engineering institutions and focuses mainly on engineering, technology, computer science, and applied sciences."
   utter_intent_334:
     - text: "Directorate of Admissions handles the undergraduate student admissions."
   utter_intent_335:
@@ -2081,7 +2081,7 @@ responses:
     - text: "Focus on Intermediate Pre-Engineering subjects, solve past papers, practice mock tests, and manage time effectively for better preparation."
 
   utter_intent_550:
-    - text: "The Secured IoT Devices Lab at UET Peshawar is a multidisciplinary research facility focused on secure IoT systems and advanced technologies."
+    - text: "The Secured IoT Devices Lab at UET Peshawar is a multidisciplinary research facility focused on secure IoT systems and advanced technologies, and mainly associated with the Department of Computer Systems Engineering (DCSE)."
 
   utter_intent_551:
     - text: "SID Lab focuses on secure IoT systems, Artificial Intelligence, Embedded Systems, and Cybersecurity."
@@ -2093,7 +2093,7 @@ responses:
     - text: "SID Lab contributes by developing secure IoT solutions, supporting smart agriculture, climate change mitigation, and technological innovation."
 
   utter_intent_554:
-    - text: "The SID Lab is located in the Department of Computer Systems Engineering at UET Peshawar."
+    - text: "Exit the room and turn left. Walk straight for about 60 steps. Turn right enter into Electrical Department and go up to the top floor. Once upstairs, you will the SID lab there." 
 
   utter_intent_555:
     - text: "Research areas include secure IoT systems, Artificial Intelligence, embedded systems, cybersecurity, and sustainable technologies."
@@ -2146,7 +2146,7 @@ responses:
 
 
   utter_intent_570:
-    - text: "UET stands for University of Engineering and Technology."
+    - text: "University of Engineering and Technology Peshawar, commonly called UET Peshawar, is a public engineering university in Peshawar. It is one of Pakistan’s well-known engineering institutions and focuses mainly on engineering, technology, computer science, and applied sciences."
 
   utter_intent_571:
     - text: "The Directorate of Admissions handles undergraduate student admissions."

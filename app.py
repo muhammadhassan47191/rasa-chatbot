@@ -12,7 +12,7 @@ app = Flask(__name__)
 CORS(app)  # Enable CORS for frontend communication
 
 # Rasa Endpoint
-RASA_URL = "http://localhost:5005/webhooks/rest/webhook"
+RASA_URL = "http://web-production-717e81.up.railway.app/webhooks/rest/webhook"
 
 # Initialize tools
 recognizer = sr.Recognizer()
