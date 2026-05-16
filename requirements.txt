@@ -8,3 +8,4 @@ gTTS==2.4.0
 googletrans==4.0.0-rc1
 pydub==0.25.1
 rasa==3.6.15
+gunicorn==21.2.0
